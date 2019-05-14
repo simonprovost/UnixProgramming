@@ -48,7 +48,7 @@ Unix project from computer science School
       You have to program a UNIX command interpreter same as the first project but with extra. The goal of the project is to enrich your minishell1 project by adding semicolons (‘;’), pipes (‘|’), and the four
       redirections (‘>’, ‘<’, ‘>>’, ‘<<’) management. Here is a simple example of a command you must hanlde: `mkdir test ; cd test ; ls -a ; ls | cat | wc -c > tutu ; cat tutu`
 
-- [42sh](./4ésh): **Reproduce an advanced shell**
+- [42sh](./42sh): **Reproduce an advanced shell**
     - Description:
       You must write a Unix SHELL.
       The project consists of two sections:
